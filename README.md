@@ -40,7 +40,7 @@ The Wise Man supports health-focused reminders:
 - 💧 **Water Drink Reminder**: Stay hydrated with regular reminders to drink water.  
 
 📎 **Links**:  
-[GitHub Repository](https://github.com/AmirShakibafar/Wise-Man-Extension)
+[GitHub Repository](https://github.com/AmirShakibafar/Wise-Man-Extension) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Morids.morids)
 
 ---
 

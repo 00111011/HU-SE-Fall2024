@@ -2,7 +2,9 @@
 
 Welcome to the official repository for the **Software Engineering** course at **Hormozgan University** for the Fall 2024 semester! 🎓✨
 
-This repository is a space where students showcase their journey in software engineering. It includes a variety of  projects and  assignments designed to strengthen their technical skills.Dive into the projects and homeworks below to witness the brilliance of our students' work! 💻🚀
+This repository is a space where students showcase their journey in software engineering. It includes a variety of  projects and  assignments designed to strengthen their technical skills.
+
+Dive into the projects and homeworks below to witness the brilliance of our students' work! 💻🚀
 
 
 ---

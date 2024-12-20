@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **Software Engineering** course at **Hormozgan University** for the Fall 2024 semester! 🎓✨
 
-This repository is a space where students showcase their journey in software engineering. It includes a variety of  projects and  assignments designed to strengthen their technical skills.
+This repository is a space where students showcase their journey in software engineering. It includes a variety of  projects and  assignments designed to strengthen their skills.
 
 Dive into the projects and homeworks below to witness the brilliance of our students' work! 💻🚀
 
@@ -19,7 +19,7 @@ Dive into the projects and homeworks below to witness the brilliance of our stud
 
 ### 🎨 **Project 1: VS Code Plugins**
 
-Our students showcased their creativity and technical skills by developing innovative Visual Studio Code extensions.
+Our students showcased their creativity and technical skills by developing Visual Studio Code extensions.
 
 ---
 

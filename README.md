@@ -33,7 +33,10 @@ Our students showcased their creativity and technical skills by developing Visua
 - ⚙️ **Interactive Settings**: Easily adjust styles using a WebView-based settings interface.
 
 
-https://github.com/user-attachments/assets/b4c9da59-0d90-4690-ab6e-e8680779896a
+
+https://github.com/user-attachments/assets/7a625384-1a58-41f8-85e8-b57f94d9ba3b
+
+
 
 
 📎 **Links**:  
@@ -111,6 +114,13 @@ The Wise Man supports health-focused reminders:
 - 🤔 **Interactive Problem Solving**: Practice real coding problems to build confidence.  
 - 🖥️ **Run Code in VS Code**: Execute Python code directly within the editor.  
 - 🏆 **Scoring System**: Each task offers a score (0–100) to help you track your progress.
+
+
+
+https://github.com/user-attachments/assets/b10a59b6-ece7-4d2c-bd3f-5913aff2b8f8
+
+
+
 
 📎 **Links**:  
 [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=PythonTeacher.pythonteacher)

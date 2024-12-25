@@ -32,14 +32,18 @@ Our students showcased their creativity and technical skills by developing Visua
 - 📂 **File Compatibility**: Supports both plain text and code files.
 - ⚙️ **Interactive Settings**: Easily adjust styles using a WebView-based settings interface.
 
+
+https://github.com/user-attachments/assets/b4c9da59-0d90-4690-ab6e-e8680779896a
+
+
 📎 **Links**:  
 [GitHub Repository](https://github.com/alumen2101/bionic-reading-vsc-extension) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SWE-G3.bionic)
 
 ---
 
-#### 🧙‍♂️ **Wise Man**
+#### 🧙‍♂️ **Wise Elder**
 
-**Wise Man** is a Visual Studio Code extension that serves as a friendly and wise companion for developers. It helps maintain productivity and well-being with timely reminders and wise insights. 
+**Wise Elder** is a Visual Studio Code extension that serves as a friendly and wise companion for developers. It helps maintain productivity and well-being with timely reminders and wise insights. 
 
 ✨ **Key Features**:
 - 🎭 **Animated Character**:  

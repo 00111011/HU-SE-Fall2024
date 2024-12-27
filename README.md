@@ -62,6 +62,12 @@ The Wise Man supports health-focused reminders:
 - 🕒 **Time to Stand Reminder**: Get up and stretch every 90 minutes to maintain physical health.  
 - 💧 **Water Drink Reminder**: Stay hydrated with regular reminders to drink water.  
 
+
+
+https://github.com/user-attachments/assets/ef40f08f-7f7b-49bf-9e40-0c701bb16f3d
+
+
+
 📎 **Links**:  
 [GitHub Repository](https://github.com/AmirShakibafar/Wise-Man-Extension) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Morids.morids)
 

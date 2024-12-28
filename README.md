@@ -151,7 +151,7 @@ https://github.com/user-attachments/assets/b10a59b6-ece7-4d2c-bd3f-5913aff2b8f8
 
 ---
 
-## 👩‍🏫 Teaching Assistants
+## 👨‍🏫 Teaching Assistants
 
 - **Mohammad Azim Saraji** ( m.azim.saraji@gmail.com )
 

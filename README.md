@@ -21,6 +21,8 @@ Dive into the projects and homeworks below to witness the brilliance of our stud
 
 Our students showcased their creativity and technical skills by developing Visual Studio Code extensions.
 
+- [Project 1](Projects/P1.pdf)
+  
 ---
 
 #### 📖 **Bionic Reading**
@@ -136,7 +138,9 @@ https://github.com/user-attachments/assets/b10a59b6-ece7-4d2c-bd3f-5913aff2b8f8
 
 ## 📂 **Homeworks** 
 
-### ✅ **Assignments and Challenges** 
+- [Homework 1](Homeworks/HW1.pdf)
+- [Homework 2](Homeworks/HW2.pdf)
+- [Homework 3](Homeworks/HW3.pdf)
 
 --- 
 
@@ -147,7 +151,7 @@ https://github.com/user-attachments/assets/b10a59b6-ece7-4d2c-bd3f-5913aff2b8f8
 
 ---
 
-👩‍🏫 Teaching Assistants
+## 👩‍🏫 Teaching Assistants
 
 - **Mohammad Azim Saraji** ( m.azim.saraji@gmail.com )
 

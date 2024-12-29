@@ -108,6 +108,13 @@ https://github.com/user-attachments/assets/ef40f08f-7f7b-49bf-9e40-0c701bb16f3d
 2. **Enable/Disable Practices**: Toggle specific practices based on preferences.  
 3. **Countdown Timer**: Track the next reminder via the **status bar**.
 
+
+
+
+https://github.com/user-attachments/assets/099deef7-75a5-4be3-9aaa-59f831b3f8a3
+
+
+
 📎 **Links**:  
 [GitHub Repository](https://github.com/srbmm/vscode_health_check) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MohammadSohrabi.healthCheck)
 

@@ -140,6 +140,24 @@ https://github.com/user-attachments/assets/b10a59b6-ece7-4d2c-bd3f-5913aff2b8f8
 📎 **Links**:  
 [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=PythonTeacher.pythonteacher)
 
+---
+
+### 🎨 **Project 2: Contribution**
+
+In Project 2, our students showcased their technical skills through contributions to a variety of open-source projects.
+
+
+- [Project 2](Projects/P2.pdf)
+
+---
+
+### 🎨 **Project 3: Final Project**
+
+In the final project, our students showcased the technical skills and knowledge they gained throughout the course by building a real, applicable software solution.
+
+
+- [Project 3](Projects/P3.pdf)
+
 
 --- 
 

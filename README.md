@@ -163,6 +163,7 @@ Each student has provided a summary of their individual contributions:
 
 
 - [Mobina Ehterami](Projects_2_Summary/Mobina_Ehterami.pdf)
+- [Seyed Reza Mosavi](Projects_2_Summary/Seyed_Reza_Mosavi.pdf)
 
 --- 
 

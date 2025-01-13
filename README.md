@@ -149,6 +149,12 @@ In Project 2, our students showcased their technical skills through contribution
 
 - [Project 2](Projects/P2.pdf)
 
+
+Each student has provided a summary of their individual contributions:
+
+- [Mobina Ehterami](Projects_2_Summary/Mobina_Ehterami.pdf)
+- [Seyed Reza Mosavi](Projects_2_Summary/Seyed_Reza_Mosavi.pdf)
+
 ---
 
 ### 🎨 **Project 3: Final Project**
@@ -158,12 +164,6 @@ In the final project, our students showcased the technical skills and knowledge 
 
 - [Project 3](Projects/P3.pdf)
 
-
-Each student has provided a summary of their individual contributions:
-
-
-- [Mobina Ehterami](Projects_2_Summary/Mobina_Ehterami.pdf)
-- [Seyed Reza Mosavi](Projects_2_Summary/Seyed_Reza_Mosavi.pdf)
 
 --- 
 

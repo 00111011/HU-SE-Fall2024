@@ -159,6 +159,11 @@ In the final project, our students showcased the technical skills and knowledge 
 - [Project 3](Projects/P3.pdf)
 
 
+Each student has provided a summary of their individual contributions:
+
+
+- [Mobina Ehterami](Projects_2_Summary/Mobina_Ehterami.pdf)
+
 --- 
 
 ## 📂 **Homeworks** 

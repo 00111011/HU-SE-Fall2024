@@ -152,8 +152,9 @@ In Project 2, our students showcased their technical skills through contribution
 
 Each student has provided a summary of their individual contributions:
 
-- [Mobina Ehterami](Projects_2_Summary/Mobina_Ehterami.pdf)
-- [Seyed Reza Mosavi](Projects_2_Summary/Seyed_Reza_Mosavi.pdf)
+- [Mobina Ehterami](Project_2_Summary/Mobina_Ehterami.pdf)
+- [Seyed Reza Mosavi](Project_2_Summary/Seyed_Reza_Mosavi.pdf)
+- [Farzad Adelfar](Project_2_Summary/Farzad_Adelfar.pdf)
 
 ---
 

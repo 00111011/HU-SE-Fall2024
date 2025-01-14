@@ -12,9 +12,9 @@ Dive into the projects and homeworks below to witness the brilliance of our stud
 ## 📚 **Contents** 
 
 1. [🚀 Projects](#-projects)
-    1. [Project 1](#-Projects-1:-VS-Code-Plugins)
-    2. [Project 2](#-project-2:-Contribution)
-    3. [Project 3](#-project-3:-Final-Project)
+    1. [Project 1](#-Project-1:-VS-Code-Plugins)
+    2. [Project 2](#-Project-2:-Contribution)
+    3. [Project 3](#-Project-3:-Final-Project)
 4. [📂 Homeworks](#-homeworks)
 
 ---

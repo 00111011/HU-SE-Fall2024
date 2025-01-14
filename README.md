@@ -31,7 +31,7 @@ Students showcased their skills by developing innovative **Visual Studio Code ex
    Enhance text readability with customizable text decorations like bold styles and faded effects.  
    - [GitHub Repository](https://github.com/alumen2101/bionic-reading-vsc-extension)  
    - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SWE-G3.bionic)  
-   ![Bionic Reading Demo](https://github.com/user-attachments/assets/7a625384-1a58-41f8-85e8-b57f94d9ba3b)
+   [Bionic Reading Demo](https://github.com/user-attachments/assets/7a625384-1a58-41f8-85e8-b57f94d9ba3b)
 
 2. **Wise Elder**  
    An interactive sidebar assistant offering productivity tips and health reminders.  

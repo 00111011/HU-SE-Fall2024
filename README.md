@@ -58,7 +58,7 @@ Students showcased their skills by developing **Visual Studio Code extensions**.
 
 ### 🤝 **Project 2: Contribution**
 
-Students contributed to **open-source projects**, honing collaboration and technical skills.  
+In Project 2, our students showcased their technical skills through contributions to a variety of **open-source projects**.
 
 📜 [**Full Details**](Projects/P2.pdf)
 
@@ -71,7 +71,7 @@ Students contributed to **open-source projects**, honing collaboration and techn
 
 ### 💡 **Project 3: Final Project**
 
-In their final project, students developed real-world software solutions.  
+For the final project, our students applied their skills and knowledge to create practical real-world software solutions.
 
 📜 [**Full Details**](Projects/P3.pdf)  
 
@@ -79,7 +79,6 @@ In their final project, students developed real-world software solutions.
 
 ## 📂 **Homeworks**
 
-Access course assignments to see the building blocks of student skills:  
 - [Homework 1](Homeworks/HW1.pdf)  
 - [Homework 2](Homeworks/HW2.pdf)  
 - [Homework 3](Homeworks/HW3.pdf)  

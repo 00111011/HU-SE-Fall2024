@@ -8,12 +8,12 @@ This repository showcases the creative and technically impressive projects and a
 
 ## 📚 **Contents**
 
-1. [🚀 Projects](#🚀-projects)
-   - [🎨 Project 1: VS Code Plugins](#🎨-project-1-vs-code-plugins)
-   - [🤝 Project 2: Contribution](#🤝-project-2-contribution)
-   - [💡 Project 3: Final Project](#💡-project-3-final-project)
-2. [📂 Homeworks](#📂-homeworks)
-3. [👨‍🏫 Instructors & Teaching Assistants](#👨‍🏫-instructors--teaching-assistants)
+1. [🚀 Projects](#-projects)
+   - [🎨 Project 1: VS Code Plugins](#-project-1-vs-code-plugins)
+   - [🤝 Project 2: Contribution](#-project-2-contribution)
+   - [💡 Project 3: Final Project](#-project-3-final-project)
+2. [📂 Homeworks](#-homeworks)
+3. [👨‍🏫 Instructors & Teaching Assistants](#-instructors--teaching-assistants)
 
 ---
 

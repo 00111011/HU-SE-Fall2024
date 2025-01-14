@@ -25,7 +25,7 @@ Students showcased their skills by developing **Visual Studio Code extensions**.
 
 📜 [**Full Details**](Projects/P1.pdf)
 
-#### Featured Extensions:
+#### Extensions:
 
 1. 📖 **Bionic Reading**  
    Enhance text readability with customizable text decorations like bold styles and faded effects.  

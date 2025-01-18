@@ -68,6 +68,7 @@ In Project 2, our students showcased their technical skills through contribution
 - [Farzad Adelfar](Project_2_Summary/Farzad_Adelfar.pdf)  
 - [Alireza Ahmadinia](Project_2_Summary/Alireza_Ahmadinia.pdf)
 - [Mohammad Amin Johari](Project_2_Summary/Mohammadamin_Johari.pdf)
+- [Hassan Taghavi Rad](Project_2_Summary/Hassan_Taghavi_Rad.pdf)
 
 ---
 

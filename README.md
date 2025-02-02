@@ -78,6 +78,12 @@ For the final project, our students applied their skills and knowledge to create
 
 📜 [**Full Details**](Projects/P3.pdf)  
 
+1. **OS Visualizer**
+   OS Visualizer lets you see how algorithms like Cpu Schedualing and Memory Allocation Algorithms operate under the hood. Adjust parameters, track resource allocation, and observe outcomes—all within an intuitive interface built to deepen your understanding through hands-on exploration
+   - 📎 [Website](https://amirshakibafar.github.io/OS-Visualizer/)  
+   - 📎 [GitHub Repository](https://github.com/AmirShakibafar/OS-Visualizer)  
+   - 📎 [DEV](https://dev.to/amir_shakibafar/we-created-a-better-way-to-visualize-os-scheduling-memory-management-54pb)  
+   
 ---
 
 ## 📂 **Homeworks**
